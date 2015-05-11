@@ -1,0 +1,30 @@
+﻿Build started 17/4/2015 13:08:00 PM.
+     1>Project "D:\Language Program\lap trinh C[C++]\GameDonGian\GameDonGian\GameDonGian.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\GameDonGian.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\language program\lap trinh c[c++]\gamedongian\gamedongian\source.cpp(101): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>d:\language program\lap trinh c[c++]\gamedongian\gamedongian\source.cpp(137): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>d:\language program\lap trinh c[c++]\gamedongian\gamedongian\source.cpp(215): warning C4805: '==' : unsafe mix of type 'int' and type 'bool' in operation
+     1>d:\language program\lap trinh c[c++]\gamedongian\gamedongian\source.cpp(220): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\conio.h(131) : see declaration of 'getch'
+     1>d:\language program\lap trinh c[c++]\gamedongian\gamedongian\source.cpp(212): warning C4101: 'key' : unreferenced local variable
+     1>d:\language program\lap trinh c[c++]\gamedongian\gamedongian\source.cpp(214): warning C4101: 'ketqua' : unreferenced local variable
+     1>d:\language program\lap trinh c[c++]\gamedongian\gamedongian\source.cpp(364): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\conio.h(131) : see declaration of 'getch'
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Language Program\lap trinh C[C++]\GameDonGian\Debug\GameDonGian.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Language Program\lap trinh C[C++]\GameDonGian\Debug\GameDonGian.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"pthread" /MACHINE:X86 Debug\GameDonGian.res
+         Debug\Source.obj
+         GameDonGian.vcxproj -> D:\Language Program\lap trinh C[C++]\GameDonGian\Debug\GameDonGian.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\GameDonGian.unsuccessfulbuild".
+         Touching "Debug\GameDonGian.lastbuildstate".
+     1>Done Building Project "D:\Language Program\lap trinh C[C++]\GameDonGian\GameDonGian\GameDonGian.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.93

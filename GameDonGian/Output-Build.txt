@@ -1,0 +1,10 @@
+﻿1>------ Build started: Project: GameDonGian, Configuration: Debug Win32 ------
+1>Build started 3/4/2015 1:40:50 AM.
+1>ClCompile:
+1>  Skipping... (no relevant changes detected)
+1>  Source.cpp
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:00.10
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
